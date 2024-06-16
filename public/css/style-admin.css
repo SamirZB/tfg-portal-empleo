@@ -1,0 +1,57 @@
+
+body {
+    background-color: rgb(245, 229, 210);
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #6e1414;
+    color: #fff;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-body {
+    background-color: #fff;
+}
+
+.card-title {
+    color: #fffcfc;
+}
+
+.btn-primary,
+.btn-danger {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #6e1414;
+    border-color: #6e1414;
+}
+
+.btn-primary:hover {
+    background-color: #5a1010;
+    border-color: #5a1010;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+}
+
+.form-control {
+    border-color: #d1d1d1;
+}
+
+.form-select {
+    border-color: #d1d1d1;
+}

@@ -1,0 +1,31 @@
+.card .card-header {
+    background-color: #6e1414;
+    color: #ffffff;
+}
+
+
+.card.title {
+    border: 2px solid #6e1414;
+    color: #6e1414;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.card .edit {
+    background-color: #6e1414;
+    color: #ffffff; 
+    border-bottom: 2px solid #6e1414; 
+}
+
+
+
+
+.btn-primary {
+    background-color: #6e1414;
+    border-color: #6e1414;
+}
+
+.btn-primary:hover {
+    background-color: #5a1010;
+    border-color: #5a1010;
+}
